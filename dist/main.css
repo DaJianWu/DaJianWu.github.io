@@ -11,6 +11,9 @@ html, body, #root {
 .app > section {
   height: 100%;
 }
+.app > section > section aside .ant-layout-sider-trigger {
+  bottom: 70px;
+}
 .app > section > section > section {
   padding: 0 24px 24px;
 }
@@ -27,5 +30,5 @@ html, body, #root {
   background: #001529;
 }
 
-.GUfY10N5mkUp1VlxcIgz{color:pink}
-.k4Wpznd9RiElnNK04rFI{width:100%;height:100%}
+.waReIYJiq2kuhuPovUn9 .GUfY10N5mkUp1VlxcIgz{color:pink}
+.dXqUQbbQYwd3IHBSpXid{width:100%;height:100%}
