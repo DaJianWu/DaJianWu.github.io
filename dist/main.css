@@ -11,6 +11,11 @@ html, body, #root {
 .app > section {
   height: 100%;
 }
+.app > section header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .app > section > section aside .ant-layout-sider-trigger {
   bottom: 70px;
 }
